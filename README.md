@@ -16,3 +16,11 @@ RSK Utils to convert keys from BTC to RSK
 
 
 **This small application runs within the browser, no call to the server is made. So you can run it off-line.**
+
+---
+
+To use the `btc-private-key-to-rsk-address.js` script run it as:
+
+```bash
+node btc-private-key-to-rsk-address.js <HEX-PRIVATE-KEY>
+```
